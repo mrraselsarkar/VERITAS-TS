@@ -207,7 +207,8 @@ original providers.
 
 ## Contact
 
-**Md Rasel Sarkar** (corresponding author), University of New South Wales, Canberra, Australia —
+**Md Rasel Sarkar** (corresponding author), School of Systems and Computing, University of New South Wales,
+Canberra, ACT, Australia —
 m.sarkar@unsw.edu.au · [ORCID 0000-0003-0516-8593](https://orcid.org/0000-0003-0516-8593)
 
 Questions and bug reports are welcome through [GitHub Issues](https://github.com/mrraselsarkar/VERITAS-TS/issues).
