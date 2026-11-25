@@ -1,0 +1,73 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+type: software
+title: "VERITAS-TS"
+abstract: >-
+  Official implementation of VERITAS-TS, which checks the evidence that a time series
+  classifier cites with two realistic, graph-aware counterfactual edits and uses the
+  pass-or-fail verdict as a reinforcement learning reward for LLM and non-LLM agents.
+version: 1.0.0
+date-released: 2026-11-25
+license: MIT
+repository-code: "https://github.com/mrraselsarkar/VERITAS-TS"
+keywords:
+  - time series classification
+  - explainability
+  - counterfactual evaluation
+  - diffusion models
+  - graph learning
+  - reinforcement learning
+  - large language models
+authors:
+  - given-names: Md Rasel
+    family-names: Sarkar
+    email: m.sarkar@unsw.edu.au
+    affiliation: "University of New South Wales, Canberra, Australia"
+    orcid: "https://orcid.org/0000-0003-0516-8593"
+  - given-names: Md Meftahul
+    family-names: Ferdaus
+    affiliation: "University of New Orleans, New Orleans, LA, USA"
+    orcid: "https://orcid.org/0000-0002-8833-2274"
+  - given-names: Sk. A.
+    family-names: Shezan
+    affiliation: "Northern Border University, Arar, Saudi Arabia"
+  - given-names: Fahad Radhi
+    family-names: Alharbi
+    affiliation: "Northern Border University, Arar, Saudi Arabia"
+  - given-names: Ahmed Fhad
+    family-names: Alrwaili
+    affiliation: "Northern Border University, Arar, Saudi Arabia"
+  - given-names: Innocent
+    family-names: Kamwa
+    affiliation: "Laval University, Quebec, Canada"
+  - given-names: GM
+    family-names: Shafiullah
+    affiliation: "Murdoch University, Perth, Australia"
+  - given-names: SM
+    family-names: Muyeen
+    affiliation: "Qatar University, Doha, Qatar"
+preferred-citation:
+  type: article
+  status: submitted
+  title: "VERITAS-TS: Learning to Cite Checkable Evidence in Multichannel Time Series Classification via Counterfactual Rewards"
+  year: 2026
+  url: "https://github.com/mrraselsarkar/VERITAS-TS"
+  authors:
+    - given-names: Md Rasel
+      family-names: Sarkar
+      orcid: "https://orcid.org/0000-0003-0516-8593"
+    - given-names: Md Meftahul
+      family-names: Ferdaus
+      orcid: "https://orcid.org/0000-0002-8833-2274"
+    - given-names: Sk. A.
+      family-names: Shezan
+    - given-names: Fahad Radhi
+      family-names: Alharbi
+    - given-names: Ahmed Fhad
+      family-names: Alrwaili
+    - given-names: Innocent
+      family-names: Kamwa
+    - given-names: GM
+      family-names: Shafiullah
+    - given-names: SM
+      family-names: Muyeen

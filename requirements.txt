@@ -1,0 +1,27 @@
+# VERITAS-TS dependencies (versions used for the paper; Python 3.12).
+# Install PyTorch first with the CUDA wheel for your system, see README.md:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128   (tested: torch 2.11.0)
+
+# numerics and plotting
+numpy==2.3.5
+scipy==1.17.1
+pandas==3.0.6
+scikit-learn==1.9.1
+matplotlib==3.11.2
+tqdm==4.70.1
+
+# time series classifiers (MiniRocket, MultiRocket-Hydra, QUANT, ResNet, InceptionTime) and ECG reading
+aeon==1.6.0
+wfdb==4.3.1
+
+# LLM agent: Qwen3-1.7B with LoRA, GRPO
+transformers==5.19.0
+peft==0.21.2
+trl==1.15.0
+accelerate==1.15.0
+datasets==5.1.0
+safetensors==0.8.0
+
+# optional, only for dataset builders that the paper does not use
+# mne          # Sleep-EDF
+# pyreadr      # Tennessee Eastman process
