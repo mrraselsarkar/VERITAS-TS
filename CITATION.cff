@@ -24,6 +24,11 @@ authors:
     email: m.sarkar@unsw.edu.au
     affiliation: "University of New South Wales, Canberra, Australia"
     orcid: "https://orcid.org/0000-0003-0516-8593"
+  - given-names: Tarun Kumar
+    family-names: Biswas
+    email: t.biswas@unsw.edu.au
+    affiliation: "University of New South Wales, Canberra, Australia"
+    orcid: "https://orcid.org/0009-0003-6574-4836"
   - given-names: Md Meftahul
     family-names: Ferdaus
     affiliation: "University of New Orleans, New Orleans, LA, USA"
@@ -56,6 +61,9 @@ preferred-citation:
     - given-names: Md Rasel
       family-names: Sarkar
       orcid: "https://orcid.org/0000-0003-0516-8593"
+    - given-names: Tarun Kumar
+      family-names: Biswas
+      orcid: "https://orcid.org/0009-0003-6574-4836"
     - given-names: Md Meftahul
       family-names: Ferdaus
       orcid: "https://orcid.org/0000-0002-8833-2274"

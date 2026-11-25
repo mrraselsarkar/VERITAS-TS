@@ -185,9 +185,9 @@ recording (4-74 minutes for 1000 training recordings), and one GRPO update took 
 @misc{sarkar2026veritasts,
   title        = {{VERITAS-TS}: Learning to Cite Checkable Evidence in Multichannel Time Series
                   Classification via Counterfactual Rewards},
-  author       = {Sarkar, Md Rasel and Ferdaus, Md Meftahul and Shezan, Sk. A. and
-                  Alharbi, Fahad Radhi and Alrwaili, Ahmed Fhad and Kamwa, Innocent and
-                  Shafiullah, GM and Muyeen, SM},
+  author       = {Sarkar, Md Rasel and Biswas, Tarun Kumar and Ferdaus, Md Meftahul and
+                  Shezan, Sk. A. and Alharbi, Fahad Radhi and Alrwaili, Ahmed Fhad and
+                  Kamwa, Innocent and Shafiullah, GM and Muyeen, SM},
   year         = {2026},
   note         = {Manuscript under review},
   howpublished = {\url{https://github.com/mrraselsarkar/VERITAS-TS}}
